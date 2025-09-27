@@ -28,6 +28,6 @@ images/ – Assets used in the website
 
 # How to view
 
-You can access my udemy clone website by visiting ( ) Feel free to explore the content and get in touch!
+You can access my udemy clone website by visiting ( https://ragunath-07.github.io/Udemy-Clone-simple-site/) Feel free to explore the content and get in touch!
 
 Thank you for visiting my udemy clone website!
